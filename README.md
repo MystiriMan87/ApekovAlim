@@ -32,6 +32,6 @@ Unity Game Development, Java coding, Unreal Engine Game Development
 
 ## How to Contact?
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-GMAIL: apekovalim57@gmail.com
+apekovalim57@gmail.com
 
 <!-- Credit to: https://github.com/Ileriayo/markdown-badges for all (if not most) of the badges. -->
